@@ -1,3 +1,1 @@
-random password generator 
-DEPLOYMENT THROUGH - NETLIFY
-https://rpwge.netlify.app
+SecurePass- A random password generator built using HTML, CSS, and JavaScript, deployed through Netlify
